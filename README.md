@@ -202,7 +202,6 @@ Owned the portal end to end: auth, invoices, quotations, notifications and dashb
 
 | Role | Organization | When |
 | --- | --- | --- |
-| Engineer, Provisr (mentored) | with a Sysco Labs Technical Lead | 2026 – present |
 | Co-Founder & Software Engineer | Zybbera (Pvt) Ltd | Jun 2024 – Dec 2025 |
 | Software Developer Intern | Sanasa Life Insurance Co. PLC | Nov 2023 – Mar 2024 |
 
